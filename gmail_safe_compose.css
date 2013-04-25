@@ -1,0 +1,4 @@
+div.__GSC__, span.__GSC__ {
+    transition: color 250ms;
+    color: #f00;
+}
